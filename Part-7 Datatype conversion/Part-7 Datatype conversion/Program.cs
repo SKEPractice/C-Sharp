@@ -10,7 +10,10 @@ namespace Part_7_Datatype_conversion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow World");
+            int i = 100;
+            float j = i;
+            Console.WriteLine("The value of float is ", j);
+            Console.ReadKey();
         }
     }
 }
