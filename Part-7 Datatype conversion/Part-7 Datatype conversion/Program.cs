@@ -10,7 +10,7 @@ namespace Part_7_Datatype_conversion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow World");
+            Console.WriteLine("Fetching process works pretty good");
         }
     }
 }
